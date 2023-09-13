@@ -1,0 +1,16 @@
+Her dedication and unwavering commitment to her work are truly inspiring.
+I have immense respect for his ability to stay calm under pressure.
+The way she handles difficult situations with grace and poise is truly remarkable.
+I'm constantly in awe of his incredible talent and creativity.
+So suppose you use in, suppose for example, sorry, in my current project I use in, I work in a schedule tool using Lookup.
+Okay. Like what was the scenario it was being used, why it was used in a code?
+Yeah. So in Lookup, I am using firstly in active, active flag is yes in this filter condition.
+And after that we add the some condition like look up employee ID equal to source employee ID like that.
+So it will perform by like a left outer join.
+So it will compare the data source and target.
+His tireless efforts to make the world a better place are truly commendable.
+She possesses a level of expertise that I find truly impressive.
+His generosity and willingness to help others is something to be emulated.
+The way she consistently strives for excellence is something I deeply respect.
+I'm genuinely amazed by his ability to solve complex problems effortlessly.
+Her humility in the face of success is a quality I greatly admire.

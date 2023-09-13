@@ -1,0 +1,205 @@
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Hello.
+Okay.
+Hello.
+My name is Akshay. I'm from Pune. I have completed my Bachelor of Engineering from Pune University.
+And I have a career experience in the American Power Centre and career experience in ISS.
+And my other technical skills are in the American Power Centre, ISS, SQL, data warehousing, Control M.
+I have experience in two domains, retail and insurance.
+So I'm currently working, currently I'm working in Capgemini, Pune as the associate consultant.
+Okay.
+It's four years.
+So have you worked on ISS?
+Yeah. So in my current project, I work in Parmatica as well as the ISS.
+So it's nearby to there.
+So suppose in Parmatica, firstly we can use the big data.
+So suppose you need to, data is received, this data is not clean.
+So firstly we clean this all data by using in Parmatica.
+Otherwise, as per the business logic, we can easily transfer the data source to target in Parmatica.
+As per business logic, we filter out the data and source to target.
+Okay.
+So suppose firstly we load the whole data in target and suppose in new data it's coming in your source,
+at that time we won't reload the new record in target like that.
+Right?
+Okay.
+So suppose you use in, suppose for example, sorry, in my current project I use in, I work in a schedule tool using Lookup.
+Okay. Like what was the scenario it was being used, why it was used in a code?
+Yeah. So in Lookup, I am using firstly in active, active flag is yes in this filter condition.
+And after that we add the some condition like look up employee ID equal to source employee ID like that.
+So it will perform by like a left outer join.
+So it will compare the data source and target.
+Okay.
+So if you are doing the incremental load, then obviously we need a Lookup or this left outer join as well, right?
+Yes. Yes. Because we need to mean source to target.
+We need to compare of the both columns.
+So target this column is available.
+So then don't load. Otherwise it's not available then load.
+So in current currently, yes, I am working with ISA development as well.
+So we can firstly develop in dev and after that we testing for this all data.
+And after this actually in our team.
+So one so in dev totally testing it's done in my file.
+And after that one it's a business is business is approval for this.
+So after that we deploy this mapping in dev for in QA and QA this mapping is run.
+So after that QA team is testing for this data.
+And after it's resolved business signup is received and after testing team is signup is received.
+Then we move the production QA to production deployment.
+Okay. So how do you generally share your deployment objects to the people who deploy?
+I am not a part of this team. So I am just developing.
+So suppose we need to deploy any firstly dev to QA.
+Then I am mailed to this team. And so this mapping also this workflow we can deploy the QA to.
+So yeah. Got it. So what kind of objects you generally share with the team who do this deployment?
+We have the power center mapping. So that time I shared a folder name.
+Okay. As well as a mapping name, workflow name and some job name control M folder name control M subfolder name.
+So like that all information I shared in this team.
+And as well as suppose you have one ISA job. So that time you can share the related.
+This is a related task flow. Otherwise mapping task you have created.
+So share this in other team.
+Okay.
+Yeah. Suppose in database you can find the duplicate. So using row ID. Otherwise,
+otherwise correlated subquery. Otherwise you can group by in all column that you can easily find out this way to find the duplicate value.
+Okay.
+Can I type where or you can you can use the.
+You can say select. So suppose you can use the row ID. So that time you can select some like select star from a table name.
+So after that fair row ID in bracket select max row ID from table name.
+And group by, for example, and ID in bracket complete after that order by employee ID.
+So that that query you can only duplicate unique records in our target table, but only employee ID.
+Actually, in current project, I am not to work, but I am aware of some basic commands in Unix.
+Okay. Yes.
+So parameters means you can parameter you can assign.
+So in your in your mapping so you can use the source source source connection target connection.
+So database connection that was otherwise filter any filter connection in the SQL query that is.
+Handled by the parameter.
+Okay.
+So actually, I am incremental load I am using so long time ago, so I am not remember that is the main issue.
+I will check this up into you. So this scenario.
+Okay.
+In power center, we can directly run the run the workflow.
+So just right click on the workflow and just run now.
+So I mean, I guess we can you we can suppose you you can run any task flow that time.
+It's about the right side of it. So optionable run.
+So we can click this. And after that, we check the monitoring.
+Monitoring that and you can easily show. So which job it's running now.
+Okay.
+I am not.
+I think it's the IBM. It's another one.
+Talent.
+Okay.
+Most things about that.
+That Germany is a total experience in one year and nine month.
+Okay.
+So you said.
+So can possible.
+So that time.
+Nice.
+One power center task is available.
+So you can export the firstly export the power center workflow and you can import this power center task in ISS.
+And after that, we can change the your source and target connection.
+In ISS and run this task.
+So I use the S32.
+And so suppose you can any scenario like we can need to the update insert or delete the record.
+That time I use the update transformation and router.
+Suppose you have the multiple multi US receiving any source and you want to the support multiple target table.
+You want like one to 10 sequence in one target table and to 26 in another target table.
+That time I I use the router transformation.
+Okay.
+Store procedure means actually.
+So I in this project I help to means some existed a job.
+Existing development job.
+It's running production.
+Okay.
+So in that time it's due to some issue with one job.
+So in this job we call the one procedure that time I handle this procedure.
+So.
+Overclock service.
+Okay.
+I think one option is API that time I think this you.
+So.
+Right.
+Makes.
+Yes.
+If you are involved in the independent project will you be able to manage and lead actually in.
+So can you are asked in current my current project.
+So.
+Our folk deal is not present in some to some emergency deal side or the right to do some medical research that time already.
+So to pressure.
+In our teams.
+So I so I say I'll saying that some instruction to this to project.
+Otherwise I.
+I.
+I.
+Provide me some tasks to this to pressure people.
+So I already want to see.
+Manage and I will improve this thing to in definitely.
+So I definitely I will work on this.
+Okay.
+Actually my previous project is the development to and one is support development.
+So then I work like anything no problem.
+I will work.
+Anything any project.
+It's migration deployment development or support.
+Okay.
+So.
+Working as well as a list area.
+Okay.
+So actually in in current project some statics are available.
+So suppose they any job seats longer.
+Running for production jobs that time we need to execute this.
+Otherwise we need to some analysis support.
+So we need to do some analysis support.
+So we need to do some analysis support.
+So we need to do some analysis support.
+Otherwise we need to some analysis support all this.
+All stored procedures.
+Using data.
+So suppose any data is mismatched that time I use the analysis this store procedure while using data.
+Okay.
+But I am.
+Okay.
+So this part also you need to explore.
+So definitely I will.
+So currently I am.
+Learning.
+Started learning.
+Casual data factory.
+Okay.
+So in UDMI.
+By UDMI.
+So actually.
+So many things.
+I am need to improve some basic thing.
+Firstly in ISS or API.
+So this is the main thing I firstly improve in related my knowledge.
+So after that we will start to learn as well.
+Okay.
+But definitely I will learn.
+So I will learn to relate.
+Okay.
+So.
+So daily it's a call party.
+It's one client call.
+So one is related to Jira.
+So which writes are sent.
+Currently.
+So we discuss this all the Jira and support you need to any any help to client.
+So that time we.
+We confirm the.
+First business.
+So I am available.
+I am need to the some.
+Some help for the Jira or so I need for.
+More information to the Jira.
+So that time I set up the call to as per availability business to call.
+To business and we.
+This is all things that are related to this Jira or development like that.
+Okay.
+Okay.
+So the camera.
+Okay.
+11.
+Okay.
+Okay.
+It's a good suggestion for me.
+I will improve my.
